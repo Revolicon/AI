@@ -1,8 +1,11 @@
-# AI
+# Revolicon AI
 Icon detection and replacement AI
-Slave of this directory is Oğuz Kaan Özsoy
+An AI that will detect icons on Figma and replace them with Revolicon icons
 
+## Developer
+Oğuz Kaan Özsoy
 
+## Result
 <pre>
 #Models
 
