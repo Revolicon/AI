@@ -40,9 +40,10 @@ Total params: 836,461
 Trainable params: 836,461
 Non-trainable params: 0
 
-![Alt text](acc_metrics.png?raw=true "acc_metrics")
 
-![Alt text](loss_metrics.png?raw=true "loss_metrics")
 
 val_loss: 0.5708 - val_acc: 0.8932
 </pre>
+![Alt text](acc_metrics.png?raw=true "acc_metrics")
+
+![Alt text](loss_metrics.png?raw=true "loss_metrics")
